@@ -13,9 +13,7 @@
   "activationCommands": {
     "atom-workspace": "font-size-changer:toggle"
   },
-  "dependencies": {
-    "react": "^16.12.0"
-  },
+  "dependencies": {},
   "consumedServices": {
     "status-bar": {
       "versions": {
