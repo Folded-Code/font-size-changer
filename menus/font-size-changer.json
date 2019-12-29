@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle font-size-changer",
+        "command": "font-size-changer:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "font-size-changer",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "font-size-changer:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
