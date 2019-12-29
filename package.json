@@ -2,8 +2,14 @@
   "name": "font-size-changer",
   "main": "./lib/font-size-changer",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [],
+  "description": "A statusBar tool to easily and quickly change font size",
+  "keywords": [
+    "font",
+    "size",
+    "fontsize",
+    "statusBar",
+    "font-size"
+  ],
   "activationCommands": {
     "atom-workspace": "font-size-changer:toggle"
   },
@@ -17,7 +23,7 @@
       }
     }
   },
-  "repository": "https://github.com/atom/font-size-changer",
+  "repository": "https://github.com/Folded-Code/font-size-changer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
