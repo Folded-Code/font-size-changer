@@ -10,9 +10,7 @@
     "statusBar",
     "font-size"
   ],
-  "activationCommands": {
-    "atom-workspace": "font-size-changer:toggle"
-  },
+  "activationCommands": {},
   "dependencies": {},
   "consumedServices": {
     "status-bar": {
