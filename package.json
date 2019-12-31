@@ -1,7 +1,7 @@
 {
   "name": "font-size-changer",
   "main": "./lib/font-size-changer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A statusBar tool to easily and quickly change font size",
   "keywords": [
     "font",
